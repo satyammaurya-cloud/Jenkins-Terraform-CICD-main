@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS `books` (
 INSERT INTO `books` (`id`, `title`, `desc`, `price`, `cover`) VALUES
 (1,
  'MultiCloud',
- 'this is multicloud with devops course by veera sir nareshit',
+ 'this is multicloud with devops course by veera sir',
  2343.2,
  'https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.png'
 ),
